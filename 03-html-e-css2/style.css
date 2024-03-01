@@ -1,0 +1,23 @@
+h1 {
+    background-color: rgb(190, 103, 172);
+    margin: 40px;
+    width: 28vw;
+}
+
+.texto1 {
+    background-color: #F5F5F5;
+    margin: 40px;
+    width: 60vh;
+    padding: 20px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
+
+.texto2 {
+    background-color: #F0CCE2;
+    margin: 40px;
+    width: 60vh;
+    padding: 20px;
+    font-size: 20px;
+    box-sizing: border-box;
+}
